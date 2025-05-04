@@ -20,12 +20,12 @@ Feel free to check out some of my public projects or reach out via [![LinkedIn](
 
 <br/>
 
-<div>
+
 <a href="https://www.credly.com/badges/3374f181-40d2-4337-b90c-b837cf536ec7/public_url" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png" alt="Microsoft Certified: Identity and Access Administrator" width="120" />
 </a>
-</div>
 
+<br/>
 
 
 > "Build it. Break it. Secure it. Repeat."
