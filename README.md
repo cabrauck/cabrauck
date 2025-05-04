@@ -13,7 +13,7 @@ In my free time, I love 🌐 building things on the web — and tinkering with e
 
 ## 📫 Let's connect
 
-Feel free to check out some of my public projects or reach out via [LinkedIn](https://www.linkedin.com/) _(insert your profile)_.
+Feel free to check out some of my public projects or reach out via [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/cabrauck/)).
 
 ---
 
