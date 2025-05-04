@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**cabrauck/cabrauck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 🛡️ IT Security Guy focused on 🔐 Identity with Microsoft Active Directory & Entra ID.  
+In my free time, I love 🌐 building things on the web — and tinkering with electronics 🛠️ and maker projects ⚙️.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Securing identities in enterprise environments  
+- 🧰 Tools I use: PowerShell, Azure, SvelteKit, GitHub Actions  
+- ❤️ Passionate about electronics, 3D printing, laser cutting & DIY builds  
+- 📦 Exploring full-stack web development as a side passion  
+- 🧠 Always learning — always securing
+
+## 📫 Let's connect
+
+Feel free to check out some of my public projects or reach out via [LinkedIn](https://www.linkedin.com/) _(insert your profile)_.
+
+---
+
+> "Build it. Break it. Secure it. Repeat."
