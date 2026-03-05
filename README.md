@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm an 🛡️ IT Security Guy focused on 🔐 Identity with Microsoft Active Directory & Entra ID.  
+I'm an 🛡️ IT Security Guy focused on 🔐 Identity & PKI with Microsoft Entra ID & Active Directory.  
 In my free time, I love 🌐 building things on the web — and tinkering with electronics 🛠️ and maker projects ⚙️.
 
 ## 🚀 About Me
