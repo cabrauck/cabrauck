@@ -1,21 +1,20 @@
-# Hi there 👋
+# Hi there
 
-I'm an 🛡️ IT Security Guy focused on 🔐 Identity & PKI with Microsoft Entra ID & Active Directory.  
-In my free time, I love 🌐 building things on the web — and tinkering with electronics 🛠️ and maker projects ⚙️.
+I work in IT security with a focus on identity, access, and PKI across Microsoft Entra ID and Active Directory.
+Outside of that, I enjoy building for the web and working on practical electronics and maker projects.
 
-## 🚀 About Me
+## About Me
 
-- 💼 Securing identities in enterprise environments  
-- 🧰 Tools I use: PowerShell, git, azure, vscode, devcontainer, SvelteKit  
-- ❤️ Passionate about electronics, 3D printing, laser cutting & DIY builds  
-- 📦 Exploring full-stack web development as a side passion  
-- 🧠 Always learning — always securing
+- Focused on identity security and enterprise access control
+- Working with PowerShell, Git, Azure, VS Code, dev containers, and SvelteKit
+- Interested in secure automation, web development, and developer tooling
+- Hands-on with electronics, 3D printing, laser cutting, and DIY builds
 
-## 📫 Let's connect
+## Let's Connect
 
-Feel free to check out some of my public projects or reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/cabrauck).
+Feel free to check out some of my public projects or connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/cabrauck).
 
-## 🏅 Certifications
+## Certifications
 
 <br/>
 
